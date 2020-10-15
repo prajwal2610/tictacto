@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     int winner=0;
     int moves = 0;
     String message;
+    int x;
 
 
 
